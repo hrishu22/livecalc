@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/livecalc/static/css/main.fdb31668.chunk.css",
+    "main.js": "/livecalc/static/js/main.242ebfe8.chunk.js",
+    "main.js.map": "/livecalc/static/js/main.242ebfe8.chunk.js.map",
+    "runtime-main.js": "/livecalc/static/js/runtime-main.8cfc799c.js",
+    "runtime-main.js.map": "/livecalc/static/js/runtime-main.8cfc799c.js.map",
+    "static/js/2.55ea9ca7.chunk.js": "/livecalc/static/js/2.55ea9ca7.chunk.js",
+    "static/js/2.55ea9ca7.chunk.js.map": "/livecalc/static/js/2.55ea9ca7.chunk.js.map",
+    "index.html": "/livecalc/index.html",
+    "static/css/main.fdb31668.chunk.css.map": "/livecalc/static/css/main.fdb31668.chunk.css.map",
+    "static/js/2.55ea9ca7.chunk.js.LICENSE.txt": "/livecalc/static/js/2.55ea9ca7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cfc799c.js",
+    "static/js/2.55ea9ca7.chunk.js",
+    "static/css/main.fdb31668.chunk.css",
+    "static/js/main.242ebfe8.chunk.js"
+  ]
+}
